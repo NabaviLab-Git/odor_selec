@@ -1,0 +1,56 @@
+# MATLAB temporary files
+*.asv
+*.m~
+
+# MATLAB compiled files
+*.mex*
+*.p
+
+# Simulink autosave
+*.autosave
+slprj/
+
+# MATLAB app designer
+*.mlapp~
+
+# Data files (usually too large for git)
+*.csv
+*.mat
+*.h5
+*.hdf5
+
+# But keep example data if you add it
+!example_data/*.csv
+
+# Figure outputs
+*.fig
+*.png
+*.jpg
+*.eps
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Results and output folders
+results/
+output/
+figures/
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.backup
+*_backup.*
+
