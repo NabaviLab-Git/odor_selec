@@ -4,7 +4,7 @@ MATLAB pipeline for identifying odor-selective neurons from calcium imaging data
 
 ## Overview
 
-This tool analyzes two-photon calcium imaging data to classify neurons based on their selectivity to positive vs. negative odor cues. It processes multiple training sessions and tracks how selectivity evolves over time.
+This tool analyzes one-photon calcium imaging data to classify neurons based on their selectivity to positive vs. negative odor cues. It processes multiple training sessions and tracks how selectivity evolves over time.
 
 ## Features
 
